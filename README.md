@@ -1,55 +1,115 @@
-# kasparro-agentic-fb-analyst-yourname
+# Kasparro Agentic FB Analyst – Chandni Kumari
 
-This repository is a seeded implementation for the Kasparro Applied AI Engineer assignment (Agentic Facebook Performance Analyst).
-The original task PDF and assignment instructions were provided by the user. See `data/sample_fb_dataset.csv` for the sample dataset.
-
-## Quick start
-1. Create virtualenv and install deps:
-   ```bash
-   python -m venv .venv
-   source .venv/bin/activate
-   pip install -r requirements.txt
-   ```
-2. Run the orchestrator (sample run):
-   ```bash
-   make run
-   ```
-   or directly:
-   ```bash
-   python src/orchestrator/run.py "Analyze ROAS drop" --config config/config.yaml
-   ```
-
-## Files & Structure
-- `src/agents/` - Planner, Data, Insight, Evaluator, Creative agents (light implementations)
-- `src/orchestrator/run.py` - Orchestration entrypoint
-- `prompts/` - Prompt templates for each agent (planner, data, insight, evaluator, creative)
-- `config/config.yaml` - thresholds and paths
-- `data/sample_fb_dataset.csv` - provided sample dataset
-- `reports/` - outputs: insights.json, creatives.json, report.md
-- `logs/` - execution logs
-- `tests/` - unit tests
-
-## Reproducing outputs & git hygiene (for submission)
-1. Initialize git repo, commit changes, create v1.0 tag:
-   ```bash
-   git init
-   git add .
-   git commit -m "feat: initial agentic fb-analyst scaffold"
-   git commit -m "chore: add sample data and run outputs" || true
-   git tag v1.0
-   ```
-2. Create a self-review PR title and description (example):
-   - Title: `self-review`
-   - Description: explain architecture choices: Planner→Data→Insight→Evaluator→Creative; discuss validations performed; note limits (synthetic sample, rule-based checks), and how to extend with LLM prompts and Langfuse traces.
-
-3. Provide final submission link and evidence in the PR description:
-   - Commit hash: `$(git rev-parse HEAD)`
-   - Release tag: `v1.0`
-   - Command used: `make run`
-
-## Notes & next steps
-- This scaffold focuses on reasoning, prompt templates, and reproducibility. Replace the simple rule-based parts with LLM-backed prompts in `prompts/` when ready.
-- Seed randomness and pin versions in `requirements.txt` for reproducibility.
+This repository contains my complete submission for the **Kasparro Applied AI Engineer Assignment (Agentic Facebook Performance Analyst)**.
+The project implements a modular, agentic workflow that analyzes Meta Ads performance data and generates insights, recommendations, and ad creatives.
 
 ---
-Generated on 2025-11-28 06:12:12Z
+
+
+### 1. Create virtual environment and install dependencies
+
+```
+python -m venv .venv
+.\.venv\Scripts\activate   # Windows
+pip install -r requirements.txt
+```
+
+### 2. Run the agentic orchestrator
+
+```
+python -m src.orchestrator.run "Analyze ROAS drop" --config config/config.yaml
+```
+
+This generates:
+
+* `reports/insights.json`
+* `reports/creatives.json`
+* `reports/report.md`
+* `logs/run_log.json`
+
+---
+
+## 📁 Project Structure
+
+```
+src/
+  ├─ agents/            # Planner, Data, Insight, Evaluator, Creative agents  
+  ├─ orchestrator/      # Main agent pipeline  
+  ├─ utils/             # Helper functions  
+config/config.yaml       # Persona, thresholds, paths  
+data/synthetic_fb_ads_undergarments.csv   # Provided dataset  
+prompts/                # Prompt templates for each agent  
+reports/                # Generated insights + creatives + final report  
+logs/                   # Execution logs  
+tests/                  # Unit tests  
+```
+
+---
+
+##  Agent Workflow Overview
+
+### 1. **Planner Agent**
+
+Breaks down the user query into structured analytical steps.
+
+### 2. **Data Agent**
+
+Loads and analyzes Facebook (Meta) Ads dataset:
+
+* spend, impressions, clicks, CTR
+* purchases, revenue, ROAS
+* audience, creative_type, creative_message
+
+### 3. **Insight Agent**
+
+Generates data-driven insights such as:
+
+* ROAS drop causes
+* CPC/CPM/CTR patterns
+* creative fatigue signals
+* audience performance shifts
+
+### 4. **Evaluator Agent**
+
+Validates insights and removes weak or unsupported conclusions.
+
+### 5. **Creative Agent**
+
+Produces:
+
+* hooks
+* headlines
+* primary text
+* descriptions
+* creative variations
+
+---
+
+##  Reproducibility
+
+To reproduce the final outputs:
+
+```
+python -m src.orchestrator.run "Analyze ROAS drop" --config config/config.yaml
+```
+
+---
+
+##  Release & Pull Request (submitted to Kasparro)
+
+* Release Tag: **v1.0**
+* Pull Request: **self-review**
+
+---
+
+##  Notes
+
+* Dataset is synthetic and meant for evaluation only.
+* Agents are modular and can be extended with LLM reasoning or Langfuse instrumentation.
+* Outputs are fully reproducible using the command above.
+
+---
+
+##  Submission Completed
+
+This repository represents my final submission for the Kasparro Agentic FB Analyst assignment.
