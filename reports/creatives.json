@@ -1,8 +1,2356 @@
 {
-  "campaignA": [
+  " OMEN COTTON CLASSICS": [
     {
-      "headline": "Sample",
-      "rationale": "seed"
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "-omen-Studio Sports": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "M-n Bold Colors Drop": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "MEN  Signture  Soft": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "MEN B LD COLORS DROP": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "MEN BOL COLORS DROP": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "MEN BOLD  OLORS DROP": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "MEN BOLD COL RS DROP": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "MEN BOLD COLORS DROP": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "MEN COMFORTMA LAUNCH": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "MEN PREMIUM MOD-L": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "MEN Sinature Soft": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Me   Premium  Modal": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Men  Bold  Colors  Drop": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Men  Bold  Coors  Drop": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Men -old Colors Drop": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Men -|  Athleisure  Cooling": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Men B-ld Colors Drop": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Men Bol Colors Drop": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Men Bold -olors Drop": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Men Bold Col-rs Drop": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Men Bold Colors Dr p": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Men Bold Colors Drop": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Men BoldColors Drop": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Men Pr-mium Modal": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Men Prem um Modal": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Men Premiu- Modal": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Men Premium -odal": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Men Premium M-dal": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Men remium Modal": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Men- Premium  Modal": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Men_Bold_Colors_Drop": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Men_Premium_Modal": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "W MEN Cotton Classics": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "W men Summer Invisible": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "WOEN  Cotton  Classics": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "WOEN FIT & LIFT": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "WOMEN  -eamless  Everyday": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "WOMEN  Cotton  Classics": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "WOMEN  Seamles   Everyday": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "WOMEN  Seamless  Everyday": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "WOMEN COTTON CLASSIS": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "WOMEN Cot-on Classics": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "WOMEN SEAM ESS EVERYDAY": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "WOMEN SEAMLESS EV RYDAY": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "WOMEN SEAMLESS EVE YDAY": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "WOMEN SEAMLESS EVERYDAY": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "WOMEN Seamless Eeryday": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "WOMEN Seamless Everyday": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "WOMEN Seamless Everydy": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "WOMEN Semless Everyday": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "WOMEN eamless Everyday": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "WOMEN | SUDIO SPORTS": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "WOMENSeamless Everyday": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "WOMEN_Cot-on_Classics": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "WOMEN_Seamless_Ever-day": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "WOMEN_Seamless_Everyday": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "WOMN_Cotton_Classics": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Wmen | Studio Sports": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Wom-n Fit & Lift": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Women C-tton Classics": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Women Cottn Classics": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Women Cotton lassics": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Women Fit  Lift": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Women Seamless Eve yday": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Women Seamless Everyday": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Women Summer In-isible": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Women | Stu io Sports": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Women | Studio Sp rts": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Women | Studio Spo-ts": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Women-Studio -ports": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Women-Studio S orts": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Women-Studio Spo-ts": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Women-Studio-Sports": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "WomenCotton Classics": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "Women_|-Studio_Sports": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "me bold colors drop": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "men bld colors drop": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "men bold colors drop": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "w men cotton classics": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "w-men cotton classics": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "wo-en seamless everyday": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "women  Summ r  Invisible": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "women  Summer  Invi ible": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "women Su mer Invisible": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "women Summer In-isible": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "women Summer Invisble": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "women Summer Invisi-le": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "women c-tton classics": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "women cott n classics": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "women cotton classics": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "women fit & li t": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "women s amless everyday": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "women s-mmer invisible": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "women seam-ess everyday": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "women seamess everyday": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "women seamless everday": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "women seamless everyday": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "women seamless-everyday": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "women su-mer invisible": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "women summe- invisible": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "women summer in isible": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "women | studio spo ts": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "women_Summe _Invisible": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "women_Summer_Inisible": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "women_Summer_Invisi-le": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
+    }
+  ],
+  "womn cotton classics": [
+    {
+      "headline": "Feel Confident \u2014 all-day comfort. Shop now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. perfect fit. Buy now",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Perfect Fit + Learn more",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Feel Confident \u2014 best value. Get yours",
+      "rationale": "Derived from common words and benefit templates"
+    },
+    {
+      "headline": "Limited time: Invisible Support. wire-free support. Limited offer",
+      "rationale": "Derived from common words and benefit templates"
     }
   ]
 }

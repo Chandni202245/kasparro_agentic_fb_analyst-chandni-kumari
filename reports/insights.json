@@ -1,6 +1,10 @@
 [
   {
-    "hypothesis": "placeholder",
-    "confidence": 0.5
+    "id": "h3",
+    "hypothesis": "No strong signal \u2014 recommend segmentation and A/B tests",
+    "confidence": 0.4,
+    "evidence": [
+      "fallback"
+    ]
   }
 ]
