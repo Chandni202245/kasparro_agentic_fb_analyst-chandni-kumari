@@ -1,0 +1,7 @@
+
+seed: 42
+data_path: data/sample_fb_dataset.csv
+output_path: reports
+low_ctr_multiplier: 0.8
+recent_window_days: 7
+debug: true
